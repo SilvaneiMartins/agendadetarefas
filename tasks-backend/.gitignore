@@ -1,0 +1,8 @@
+#Node Modules
+node_modules
+
+#Arquivo Authentication
+.env
+
+#Log do Aplicativo
+*.log
