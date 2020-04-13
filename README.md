@@ -17,7 +17,8 @@ parte de backend tem que ser o IP da sua maquina real isso para rodar no Device 
 
 Exemplo: <br>
 IOS: http://localhost:3000 <br>
-ANDROID: http://seuipdocomputador:3000 <br><br>
+ANDROID: http://seuipdocomputador:3000 <br>
+<a href="https://imgur.com/WHrDdyW"><img src="https://i.imgur.com/WHrDdyW.png" title="source: imgur.com" /></a>
 
 Observação: Gostaria de pedir para quem usar, clonar ou realizar qualquer outro tipo de experimento com o código,
 por favor, mantenha a assinatura do auto no código.<br>
