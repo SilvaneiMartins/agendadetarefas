@@ -20,12 +20,13 @@ IOS: http://localhost:3000 <br>
 ANDROID: http://seuipdocomputador:3000 <br>
 <a href="https://imgur.com/WHrDdyW"><img src="https://i.imgur.com/WHrDdyW.png" title="source: imgur.com" /></a>
 
-Observação: Gostaria de pedir para quem usar, clonar ou realizar qualquer outro tipo de experimento com o código,
-por favor, mantenha a assinatura do auto no código.<br>
-
 Desenvolvedor: Silvanei Martins<br>
-Contato: WhastApp (69) 9.8405-2620<br>
+Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)<br>
+Contato: WhastApp Comercial: +55 (69) 9.9970-8265 <br>
 Email: silvaneimartins_rcc@hotmail.com / silvaneimartins34@gmail.com<br>
 
-Atenciosamente.<br>
-Empresa: Sam Security.
+Empresa: <br>
+Sam Security Develop.<br>
+
+Observação: Gostaria de pedir para quem usar, clonar ou realizar qualquer outro tipo de experimento com o código,
+por favor, mantenha a assinatura do autor no código.
